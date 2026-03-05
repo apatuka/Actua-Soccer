@@ -1,0 +1,54 @@
+{
+  "seed": 2026,
+  "minutes": 90,
+  "home": {
+    "name": "Tigres",
+    "pace": 74,
+    "power": 70,
+    "control": 76,
+    "flair": 72,
+    "vision": 71,
+    "accuracy": 75,
+    "stamina": 73,
+    "discipline": 69,
+    "fitness": 77,
+    "players": [
+      {
+        "name": "R. Mora",
+        "pace": 81,
+        "power": 78,
+        "control": 82,
+        "flair": 84,
+        "vision": 75,
+        "accuracy": 85,
+        "stamina": 71,
+        "discipline": 61,
+        "fitness": 79
+      },
+      {
+        "name": "L. Paredes",
+        "pace": 76,
+        "power": 72,
+        "control": 74,
+        "flair": 69,
+        "vision": 73,
+        "accuracy": 77,
+        "stamina": 75,
+        "discipline": 70,
+        "fitness": 76
+      }
+    ]
+  },
+  "away": {
+    "name": "Leones",
+    "pace": 69,
+    "power": 71,
+    "control": 68,
+    "flair": 66,
+    "vision": 67,
+    "accuracy": 70,
+    "stamina": 72,
+    "discipline": 64,
+    "fitness": 74
+  }
+}
